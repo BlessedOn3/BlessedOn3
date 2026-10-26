@@ -22,6 +22,12 @@ I like to make the system my own: Arch, Hyprland, Quickshell and a lot of shell 
 
 The **[rice](https://github.com/BlessedOn3/rice)** repository has my current setup: side panels (music, calendar, notifications, waifu card, Booru, GitHub and chat), per-workspace wallpapers, color palette switching and keyboard shortcuts.
 
+## 📸 Screenshots
+
+<img src="assets/rice-1.png" alt="Rice screenshot 1" width="100%" />
+
+<img src="assets/rice-2.png" alt="Rice screenshot 2" width="100%" />
+
 ## 📫 Contact
 
 tem naum
