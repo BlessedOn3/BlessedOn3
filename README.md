@@ -24,4 +24,4 @@ O repositório **[rice](https://github.com/BlessedOn3/rice)** tem a minha config
 
 ## 📫 Contato
 
-Se quiser trocar ideia sobre Linux, dotfiles ou rice, é só abrir uma issue nos meus repositórios.
+tem naum
