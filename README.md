@@ -2,7 +2,7 @@
 
 <img src="assets/giphy.gif" alt="Bless" width="500" />
 
-# Olá, eu sou o Bless 👋
+# TheBless0nxd 👋
 
 **Linux, desktops tiling e configurações pessoais.**
 Gosto de deixar o sistema do meu jeito: Arch, Hyprland, Quickshell e muito shell script.
