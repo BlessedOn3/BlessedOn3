@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="Banner" width="100%" />
+
 <img src="assets/giphy.gif" alt="Bless" width="500" />
 
 # TheBless0nxd 👋
