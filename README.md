@@ -4,24 +4,24 @@
 
 # TheBless0nxd 👋
 
-**Linux, desktops tiling e configurações pessoais.**
-Gosto de deixar o sistema do meu jeito: Arch, Hyprland, Quickshell e muito shell script.
+**Linux, tiling desktops and personal configuration.**
+I like to make the system my own: Arch, Hyprland, Quickshell and a lot of shell scripts.
 
 </div>
 
 ---
 
-## 🖥️ O que eu curto
+## 🖥️ What I'm into
 
-- **Arch Linux** com **Hyprland** (Wayland, tiling)
-- **Quickshell** para barra, painéis e widgets
-- Scripts em **Bash** e **Python**
-- Dotfiles, temas de cor e automações
+- **Arch Linux** with **Hyprland** (Wayland, tiling)
+- **Quickshell** for the bar, panels and widgets
+- Scripts in **Bash** and **Python**
+- Dotfiles, color themes and automations
 
-## 🎨 Meu rice
+## 🎨 My rice
 
-O repositório **[rice](https://github.com/BlessedOn3/rice)** tem a minha configuração atual: painéis laterais (música, calendário, notificações, imagem, Booru, GitHub e chat), wallpaper por workspace, troca de paleta e atalhos de teclado.
+The **[rice](https://github.com/BlessedOn3/rice)** repository has my current setup: side panels (music, calendar, notifications, waifu card, Booru, GitHub and chat), per-workspace wallpapers, color palette switching and keyboard shortcuts.
 
-## 📫 Contato
+## 📫 Contact
 
 tem naum
